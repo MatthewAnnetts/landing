@@ -1,0 +1,44 @@
+.cards h3 {
+  color: rgb(20, 20, 20);
+}
+
+.cards p {
+  color: rgb(60, 60, 60);
+}
+
+.cards img {
+  height: 80px;
+}
+
+.card {
+  border-style: solid;
+  border-color: rgb(220, 220, 220);
+  height: 300px;
+  text-align: center;
+}
+
+.card img {
+  padding: 20px;
+}
+
+.card h3 {
+  padding: 10px;
+}
+
+.card p {
+  padding: 5px;
+}
+
+.cards {
+  padding: 10px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  width: 750px;
+}
+
+.container h2 {
+  color: rgb(20, 20, 20);
+  text-align: center;
+  padding-left: 330px;
+}

@@ -1,0 +1,12 @@
+.btn-green {
+  color: #fff;
+  padding: 15px 25px;
+  background-color: #68A357;
+  border-radius: 25px;
+  margin-top: 25px;
+}
+
+.btn-green: {
+  background-color: #5F9550;
+  transition: 0.4s;
+}
